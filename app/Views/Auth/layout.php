@@ -22,7 +22,7 @@
 
 <body>
 
-<?= view('App\Views\Auth\_navbar') ?>
+
 
 <main role="main" class="container">
 	<?= $this->renderSection('main') ?>
