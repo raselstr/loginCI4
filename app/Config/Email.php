@@ -8,7 +8,7 @@ class Email extends BaseConfig
 {
     public string $fromEmail  = 'str.rasel83@gmail.com';
     public string $fromName   = 'BKAD Asahan';
-    public string $recipients = 'Pengguna';
+    public string $recipients = '';
 
     /**
      * The "user agent"
